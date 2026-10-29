@@ -67,11 +67,22 @@ const vishu = {
 <div align="center">
 
 <a href="https://github.com/vishupalpal014-cloud/video-downloader">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishupalpal014-cloud&repo=video-downloader&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=8B5CF6&icon_color=00D4FF&text_color=E2E8F0" alt="Video Downloader project card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishupalpal014-cloud&repo=video-downloader&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=8B5CF6&icon_color=00D4FF&text_color=E2E8F0" width="100%" alt="Video Downloader GitHub repository card" />
 </a>
 
-<a href="https://github.com/vishupalpal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishupalpal&repo=portfolio-website&theme=tokyonight&hide_border=true" alt="Portfolio project card" />
+<br/>
+
+### 🎬 Video Downloader
+
+A video and audio downloader project.
+
+**Features**
+- 🎥 Video downloads
+- 🎵 MP3 audio downloads
+- ⚙️ Node.js and yt-dlp integration
+
+<a href="https://github.com/vishupalpal014-cloud/video-downloader">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-6C3BFF?style=for-the-badge&logo=github&logoColor=white" alt="View Video Downloader project"/>
 </a>
 
 </div>
