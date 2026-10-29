@@ -132,10 +132,5 @@ A video and audio downloader project with video downloads and MP3 extraction.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6C3BFF,100:0B1026&height=100&section=footer" width="100%" alt="Neon footer"/>
-
-**✨ Code. Create. Learn. Grow. ✨**
-
-</div>
 
 
