@@ -62,30 +62,38 @@ const vishu = {
 
 </div>
 
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/vishupalpal014-cloud/video-downloader">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishupalpal014-cloud&repo=video-downloader&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=8B5CF6&icon_color=00D4FF&text_color=E2E8F0" width="100%" alt="Video Downloader GitHub repository card" />
+  <img src="https://img.shields.io/badge/▶_VIDEO_DOWNLOADER-6C3BFF?style=for-the-badge&logo=github&logoColor=white" alt="Video Downloader Project"/>
 </a>
+
+<br/><br/>
+
+**🎬 Video Downloader — Video & Audio Downloading**
+
+A web application for downloading videos and extracting audio as MP3.
+
+| Feature | Description |
+|---|---|
+| 🎥 Video Download | Download videos using yt-dlp |
+| 🎵 MP3 Download | Extract audio in MP3 format |
+| ⚙️ Backend | Node.js and Express |
+| 🧩 Integration | yt-dlp |
 
 <br/>
 
-### 🎬 Video Downloader
-
-A video and audio downloader project.
-
-**Features**
-- 🎥 Video downloads
-- 🎵 MP3 audio downloads
-- ⚙️ Node.js and yt-dlp integration
-
 <a href="https://github.com/vishupalpal014-cloud/video-downloader">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-6C3BFF?style=for-the-badge&logo=github&logoColor=white" alt="View Video Downloader project"/>
+  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-00D4FF?style=for-the-badge&logo=github&logoColor=0B1026" alt="Explore repository"/>
 </a>
 
 </div>
+
+---
+
 
 > **Tip:** Replace the two example repository names above with your exact repository names. These cards only display the corresponding repository if it exists.
 
