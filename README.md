@@ -92,10 +92,6 @@ A web application for downloading videos and extracting audio as MP3.
 
 </div>
 
----
-
-
-> **Tip:** Replace the two example repository names above with your exact repository names. These cards only display the corresponding repository if it exists.
 
 ## 🎯 Current Focus
 
