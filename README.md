@@ -51,25 +51,19 @@ const vishu = {
 
 
 
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/vishupalpal">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishupalpal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=8B5CF6&icon_color=00D4FF&text_color=E2E8F0&cache_seconds=3600" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/vishupalpal">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishupalpal&theme=tokyonight&hide_border=true&background=0B1026&ring=8B5CF6&fire=00D4FF&currStreakLabel=8B5CF6" alt="GitHub Contribution Streak"/>
-</a>
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=vishupalpal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=8B5CF6&icon_color=00D4FF&text_color=E2E8F0" alt="GitHub statistics" />
 
-<br/><br/>
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vishupalpal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=8B5CF6&text_color=E2E8F0" alt="Most-used programming languages" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishupalpal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=8B5CF6&text_color=E2E8F0&cache_seconds=3600" alt="Most Used Languages"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=vishupalpal&theme=tokyonight&hide_border=true&background=0B1026&ring=8B5CF6&fire=00D4FF&currStreakLabel=8B5CF6" alt="GitHub contribution streak" width="70%" />
 
 </div>
-
-**[View my actual GitHub contributions →](https://github.com/vishupalpal?tab=overview&from=2026-01-01&to=2026-12-31)**
-
 
 
 **[View my actual GitHub contributions →](https://github.com/vishupalpal?tab=overview&from=2026-01-01&to=2026-12-31)**
