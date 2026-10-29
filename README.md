@@ -114,9 +114,11 @@ A web application for downloading videos and extracting audio as MP3.
 <a href="https://linkedin.com/in/vishu-kumar-330a72206">
 <img src="https://img.shields.io/badge/LinkedIn-0B1026?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
-<a href="vishupalpal014@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0B1026?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vishupalpal014@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-0B1026?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email me on Gmail"/>
 </a>
+
 
 <br/><br/>
 
