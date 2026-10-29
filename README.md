@@ -66,12 +66,12 @@ const vishu = {
 
 <div align="center">
 
-<a href="https://github.com/vishupalpal">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishupalpal&repo=portfolio-website&theme=tokyonight&hide_border=true" alt="Portfolio repository card"/>
+<a href="https://github.com/vishupalpal014-cloud/video-downloader">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishupalpal014-cloud&repo=video-downloader&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=8B5CF6&icon_color=00D4FF&text_color=E2E8F0" alt="Video Downloader project card" />
 </a>
 
 <a href="https://github.com/vishupalpal">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishupalpal&repo=youtube-music-clone&theme=tokyonight&hide_border=true" alt="Music clone repository card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishupalpal&repo=portfolio-website&theme=tokyonight&hide_border=true" alt="Portfolio project card" />
 </a>
 
 </div>
