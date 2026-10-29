@@ -52,13 +52,13 @@ const vishu = {
 
 <div align="center">
 
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=vishupalpal014-cloude&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=8B5CF6&icon_color=00D4FF&text_color=E2E8F0" alt="GitHub statistics" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=vishupalpal014-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=8B5CF6&icon_color=00D4FF&text_color=E2E8F0" alt="GitHub statistics" />
 
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vishupalpal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=8B5CF6&text_color=E2E8F0" alt="Most-used programming languages" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vishupalpal014-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=8B5CF6&text_color=E2E8F0" alt="Most-used programming languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=vishupalpal&theme=tokyonight&hide_border=true&background=0B1026&ring=8B5CF6&fire=00D4FF&currStreakLabel=8B5CF6" alt="GitHub contribution streak" width="70%" />
+<img src="https://streak-stats.demolab.com?user=vishupalpal014-cloud&theme=tokyonight&hide_border=true&background=0B1026&ring=8B5CF6&fire=00D4FF&currStreakLabel=8B5CF6" alt="GitHub contribution streak" width="70%" />
 
 </div>
 
