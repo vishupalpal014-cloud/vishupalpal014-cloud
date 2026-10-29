@@ -20,25 +20,19 @@
 
 ---
 
-
 ## 👨‍💻 About Me
 
-Hi, I'm **Vishu Kumar**, a Frontend Developer at **ConsultIT**, passionate about building modern, responsive, and user-friendly web applications.
-
-- 💼 **Experience:** Frontend Developer at ConsultIT (April 2025 – Present)
-- ⚛️ **Frontend:** React.js, Next.js, JavaScript (ES6+), TypeScript
-- 🎨 **UI Development:** HTML5, CSS3, Tailwind CSS, responsive design
-- 🔄 **State Management:** Redux Toolkit, Context API
-- 🔌 **API Integration:** REST APIs, Axios, real-time applications
-- 🛠️ **Tools:** Git, GitHub, npm, Vercel
-- 🏗️ **Development:** Reusable components, performance optimization, SSR, CSR, and SSG
-- 🚀 **Projects:** Payment Gateway Integration, E-Store, Real-Time Chat, Café Management
-- 🎓 **Education:** MCA and BCA
-- 🌱 **Currently focused on:** Writing clean, maintainable code and creating engaging user experiences.
-
-I enjoy solving problems, learning new technologies, and turning ideas into scalable web applications.
-
-
+```typescript
+const vishu = {
+  name: "Vishu Pal",
+  role: "Frontend Developer",
+  location: "India 🇮🇳",
+  technologies: ["React.js", "Next.js", "TypeScript"],
+  styling: ["Tailwind CSS", "CSS3"],
+  tools: ["Git", "GitHub", "Vite", "VS Code"],
+  goal: "Build beautiful and scalable web applications",
+  funFact: "I turn coffee ☕ into code 💻"
+};
 ```
 
 - 🚀 Building responsive, interactive, and user-friendly web applications.
@@ -127,6 +121,15 @@ A video and audio downloader project with video downloads and MP3 extraction.
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vishupalpal014%40gmail.com">
 <img src="https://img.shields.io/badge/Gmail-0B1026?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email me"/>
 </a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6C3BFF,100:0B1026&height=100&section=footer" width="100%" alt="Neon footer"/>
+
+**✨ Code. Create. Learn. Grow. ✨**
+
+</div>
+
 
 <br/><br/>
 
