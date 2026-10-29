@@ -20,19 +20,25 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 
-```typescript
-const vishu = {
-  name: "Vishu Pal",
-  role: "Frontend Developer",
-  location: "India 🇮🇳",
-  technologies: ["React.js", "Next.js", "TypeScript"],
-  styling: ["Tailwind CSS", "CSS3"],
-  tools: ["Git", "GitHub", "Vite", "VS Code"],
-  goal: "Build beautiful and scalable web applications",
-  funFact: "I turn coffee ☕ into code 💻"
-};
+Hi, I'm **Vishu Kumar**, a Frontend Developer at **ConsultIT**, passionate about building modern, responsive, and user-friendly web applications.
+
+- 💼 **Experience:** Frontend Developer at ConsultIT (April 2025 – Present)
+- ⚛️ **Frontend:** React.js, Next.js, JavaScript (ES6+), TypeScript
+- 🎨 **UI Development:** HTML5, CSS3, Tailwind CSS, responsive design
+- 🔄 **State Management:** Redux Toolkit, Context API
+- 🔌 **API Integration:** REST APIs, Axios, real-time applications
+- 🛠️ **Tools:** Git, GitHub, npm, Vercel
+- 🏗️ **Development:** Reusable components, performance optimization, SSR, CSR, and SSG
+- 🚀 **Projects:** Payment Gateway Integration, E-Store, Real-Time Chat, Café Management
+- 🎓 **Education:** MCA and BCA
+- 🌱 **Currently focused on:** Writing clean, maintainable code and creating engaging user experiences.
+
+I enjoy solving problems, learning new technologies, and turning ideas into scalable web applications.
+
+
 ```
 
 - 🚀 Building responsive, interactive, and user-friendly web applications.
